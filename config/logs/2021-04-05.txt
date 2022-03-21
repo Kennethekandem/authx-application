@@ -1,0 +1,47 @@
+Time : 08:32:13
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'Kenneth Ekandem' for column 'category_id' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp, day, month, year) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now, :day, :month, :year)
+
+Time : 07:25:47
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT blogs.*, bc.content FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:25:46
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT blogs.*, bc.content FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:24:44
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:24:38
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:24:37
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:24:01
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:24:00
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:23:51
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:23:50
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:23:49
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id
+
+Time : 07:22:47
+SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Raw SQL : SELECT * FROM blogs LEFT JOIN blog_contents bc on blogs.id = bc.blog_id LEFT JOIN categories c on blogs.category_id = c.id WHERE id = :blog_id

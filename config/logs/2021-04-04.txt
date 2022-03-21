@@ -1,0 +1,23 @@
+Time : 21:40:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.blog_content' doesn't exist
+Raw SQL : INSERT INTO blog_content (blog_id, content) VALUES (:blog_id, :content)
+
+Time : 21:38:08
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '1617568688' for column 'timestamp' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)
+
+Time : 21:34:40
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'on' for column 'publish' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)
+
+Time : 21:33:40
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'on' for column 'publish' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)
+
+Time : 21:33:23
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'on' for column 'publish' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)
+
+Time : 21:30:35
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'on' for column 'publish' at row 1
+Raw SQL : INSERT INTO blogs (title, category_id, writer, thumbnail, publish, timestamp) VALUES (:title, :category_id, :writer, :thumbnail, :publish, :now)

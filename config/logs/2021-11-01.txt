@@ -1,0 +1,151 @@
+Time : 11:55:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT blogs.*, blogs.id AS blog_id, c.category FROM blogs LEFT JOIN categories c on blogs.category_id = c.id
+
+Time : 11:55:29
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT blogs.*, blogs.id AS blog_id, c.category FROM blogs LEFT JOIN categories c on blogs.category_id = c.id
+
+Time : 11:55:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:55:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:55:04
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:54:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:54:29
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:54:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:54:17
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:54:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:49:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:47:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:47:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:47:47
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:46:58
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:46:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:46:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:45:35
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:45:03
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:57
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:14
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:04
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:44:02
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:43:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:43:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:41:57
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:41:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:41:09
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:41:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:40:37
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:40:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:38:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:37:08
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:37:06
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:36:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
+
+Time : 11:36:52
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lifepith.categories' doesn't exist
+Raw SQL : SELECT * FROM categories
