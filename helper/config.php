@@ -11,7 +11,7 @@ class config {
     public static function base() {
 
         if(config::production()) {
-            return 'https://authxapp.com';
+            return 'https://limitless-shelf-20802.herokuapp.com';
         }else {
             return 'http://authxapp.test';
         }
@@ -19,7 +19,7 @@ class config {
     }
 
     public static function production() {
-        return false;
+        return true;
     }
 
     public static function email() {
