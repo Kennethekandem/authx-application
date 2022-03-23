@@ -91,7 +91,7 @@ x
         console.log('Session = ', authx.getSession())
     }
     const authx = AuthX("eEjFwAnbsYzUMWtWv8eJWp8hnDQdYrbkR0K2UKth", {
-        redirect_uri: "http://authxapp.test",
+        redirect_uri: "https://authxapp.herokuapp.com",
         locale: 'en',
         isSpa: false,
         onComplete: loginHandler,
@@ -100,13 +100,8 @@ x
         }
     })
 
-    function login(e) {
-        e.preventDefault();
-
+    function login() {
         authx.initiateSession()
-    }
-    function hello() {
-        alert('hello')
     }
 </script>
 
