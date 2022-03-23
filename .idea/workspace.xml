@@ -2,32 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eda7d85-65b7-40a0-bfd7-cc4af773f485" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/authx-application.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/Db.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/Log.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/logs/2021-04-04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/logs/2021-04-05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/logs/2021-04-06.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/logs/2021-11-01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.ini.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/paystack.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/request.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/respond.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/route.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/upload.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/Db.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/Log.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logs/2021-04-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logs/2021-04-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logs/2021-04-06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logs/2021-11-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.ini.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/paystack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/respond.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/route.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helper/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/header.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
       <updated>1647770776259</updated>
       <workItem from="1647770777987" duration="2548000" />
       <workItem from="1647845430866" duration="6588000" />
-      <workItem from="1647963127439" duration="2066000" />
+      <workItem from="1647963127439" duration="2380000" />
     </task>
     <servers />
   </component>
